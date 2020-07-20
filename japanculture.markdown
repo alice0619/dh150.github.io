@@ -4,12 +4,16 @@ title: Japan Culture
 permalink: /japanculture/
 ---
 
+## What's Japan?
+
 ## How Are Japanese People Like?
 
 ## Greetings
 ### Basics
-- Arigatou gozaimasu. (Thank you very much.)
-- Sumimasen. (Excuse me.)
+- Arigatou gozaimasu.   
+(Thank you very much.)
+- Sumimasen.   
+(Excuse me.)
 
 ### Eating
 - Itadakimasu. 
