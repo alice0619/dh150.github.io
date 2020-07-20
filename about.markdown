@@ -7,8 +7,8 @@ permalink: /about/
 This website introduces West Japan for travel and is collabolative so that everyone can edit.
 
 ### Why West Japan?
-https://github.com/alice0619/dh150.github.io/blob/master/visitrate.png
 <img src="https://github.com/alice0619/dh150.github.io/blob/master/visitrate.png" alt="Visit Rate (%)" title="Visit Rate by Pref">
+
 
 Japan Tourism Agency "Consumption Trend Survey for Foreigners Visiting Japan"
 
