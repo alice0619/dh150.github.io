@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This website introduces West Japan for travel and is collabolative so that everyone can edit.
+This website introduces West Japan for travel and is collabolative so that everyone can edit!
 
 ### Why West Japan?
 <img src="https://github.com/alice0619/dh150.github.io/blob/master/visitrate.png?raw=true" alt="Visit Rate (%)" title="Visit Rate by Pref">
