@@ -24,3 +24,6 @@ permalink: /japanculture/
 ### Others
 
 ## Manners
+
+## Holidays in Japan
+Better to avoid those seasons...
