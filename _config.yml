@@ -22,8 +22,8 @@ title: Traveling in West Japan
 email: alice06192000@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This repository is for digital humanities 150A at University of California Berkeley. My website introduces West Japan for travel and why. Also, this website is collabolative so that everyone can edit.
-baseurl: "https://alice0619.github.io/dh150.github.io/" # the subpath of your site, e.g. /blog
-url: "https://alice0619.github.io/dh150.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://alice0619.github.io/dh150.github.io" # the subpath of your site, e.g. /blog
+url: "https://alice0619.github.io/dh150.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
