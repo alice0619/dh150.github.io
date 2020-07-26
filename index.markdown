@@ -4,19 +4,69 @@
 
 layout: home
 ---
+# CSS for slideshow
+<style type="text/css">
+		#slideshow {
+			position: relative;
+			width:  640px;
+			height: 300px;
+		}
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+		#slideshow p {
+			position: absolute;
+			top:  0;
+			left: 0;
+			z-index: 8;
+			opacity: 0.0;
+			background-color: white;
+			margin: 0;
+			height: 300px;
+		}
 
+		#slideshow p.active {
+			z-index: 10;
+			opacity: 1.0;
+		}
+
+		#slideshow p.last-active {
+			z-index: 9;
+		}
+
+		#slideshow p img {
+			width: 640px;
+			height: 270px;
+			display: block;
+			border: 0;
+			margin-bottom: 10px;
+		}
+	</style>
+        
+# JQuery for slideshow
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 <script type="text/javascript">
-        $(document).ready(function(){
-            $('.slider').bxSlider({
-                auto: true,
-                pause: 5000,
-            });
-        });
-</script>
+
+		function slideSwitch() {
+			var $active = $('#slideshow p.active');
+
+			if ( $active.length == 0 ) $active = $('#slideshow p:last');
+
+			var $next =  $active.next().length ? $active.next()
+			    : $('#slideshow p:first');
+
+			$active.addClass('last-active');
+
+			$next.css({opacity: 0.0})
+			    .addClass('active')
+			    .animate({opacity: 1.0}, 1000, function() {
+			        $active.removeClass('active last-active');
+			    });
+		}
+
+		$(function() {
+		    setInterval( "slideSwitch()", 2100 );
+		});
+
+	</script>
 
 <div id="slideshow">
 <p class="active">
