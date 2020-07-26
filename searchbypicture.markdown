@@ -19,6 +19,7 @@ permalink: /searchbypicture/
         });
 </script>
 
+<body>
 <div class="slider">
 <ul class=”bxslider”>
         <li><a href＝"https://alice0619.github.io/dh150.github.io/searchbyprefecture/">
@@ -38,4 +39,5 @@ permalink: /searchbypicture/
                 </a></li>
                 </ul>
                 </div>
+                </body>
                                                                                   
