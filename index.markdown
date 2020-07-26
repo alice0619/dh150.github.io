@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
----										  
-### What's New? 
+---		
 <div style="margin:0px;padding:0px;" align="center">
 <div style="margin:0px;padding:0px;line-height:1.3;">
 <div style="margin:0px;padding:10px;line-height:1.3;overflow:auto;text-align:left;height:200px;">
