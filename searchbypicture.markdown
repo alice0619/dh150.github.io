@@ -13,8 +13,8 @@ permalink: /searchbypicture/
 .slider img
 {
 width:100%;
-display: block;
-margin: 0 auto;
+display: block !important;
+margin: 0 auto !important;
 }
 .bx-wrapper img {
     width:100%;
