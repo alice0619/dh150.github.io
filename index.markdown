@@ -20,7 +20,7 @@ layout: home
 
 <div class="slider">
 <img src="8D0BE253-069E-48F3-B903-DE002E58BF93-min.jpeg" width="500" height="300" alt="">
-<img src="gazou2.jpg" width="500" height="300" alt="">
+<img src="94330D2F-2703-47D2-BA21-89AE2FFF84D5-min.jpeg" height="300" alt="">
 <img src="gazou3.jpg" width="500" height="300" alt="">
 <img src="gazou4.jpg" width="500" height="300" alt="">
 </div>
