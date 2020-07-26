@@ -61,7 +61,7 @@ layout: home
 		}
 
 		$(function() {
-		    setInterval( "slideSwitch()", 2100 );
+		    setInterval( "slideSwitch()", 5000 );
 		});
 
 	</script>
