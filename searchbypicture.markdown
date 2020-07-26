@@ -19,7 +19,7 @@ permalink: /searchbypicture/
         });
 </script>
 
-
+<div class="slider">
 <ul class=”bxslider”>
         <li><a href＝"https://alice0619.github.io/dh150.github.io/searchbyprefecture/">
 <img src="https://alice0619.github.io/dh150.github.io/8D0BE253-069E-48F3-B903-DE002E58BF93-min.jpeg" width="600" height="500" alt="Tsunoshima Ohashi (Yamaguchi)" title="Tsunoshima Ohashi (Yamaguchi)">
@@ -37,4 +37,5 @@ permalink: /searchbypicture/
 <img src="https://alice0619.github.io/dh150.github.io/CD2C95F7-AF6B-4474-9980-AAA17B422D3E-min.jpeg" width="600" height="500" alt="Motonosumi Inari Jinja (Yamaguchi)" title="Motonosumi Inari Jinja (Yamaguchi)">
                 </a></li>
                 </ul>
+                </div>
                                                                                   
