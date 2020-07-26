@@ -13,6 +13,8 @@ permalink: /searchbypicture/
 ul.slider > li > img
 {
 width:100%;
+display: block;
+margin: 0 auto;
 }
 .bx-wrapper img {
     width:100%;
@@ -26,8 +28,7 @@ $(document).ready(function(){
                 auto: true,
                 pause: 5000,
                 captions: true,
-                touchEnabled: false,
-                slideMargin: 10
+                touchEnabled: false
             });
         });
             </script>
