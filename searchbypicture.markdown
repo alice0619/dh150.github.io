@@ -19,6 +19,59 @@ permalink: /searchbypicture/
 <img src="CD2C95F7-AF6B-4474-9980-AAA17B422D3E-min.jpeg" />
 </div>
 
+
+*, *:before, *:after {
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+}
+.cp_cssslider {
+width: 300px;
+padding-top: 200px; /* 画像の高さ */
+position: relative;
+margin: 2em auto;
+text-align: center;
+}
+.cp_cssslider > img {
+position: absolute;
+left: 0;
+top: 0;
+transition: all 0.5s;
+border-radius: 3px;
+box-shadow:0px 0px 5px 0px rgba(0,0,0,0.3);
+}
+.cp_cssslider input[name='cp_switch'] {
+display: none;
+}
+/* サムネイル */
+.cp_cssslider label {
+margin: 15px 5px 0 5px;
+border: 2px solid #ffffff;
+display: inline-block;
+cursor: pointer;
+transition: all 0.5s ease;
+opacity: 0.6;
+border-radius: 3px;
+}
+.cp_cssslider label:hover {
+opacity: 0.9;
+}
+.cp_cssslider label img {
+display: block;
+width: 40px;
+border-radius: 2px;
+}
+.cp_cssslider input[name='cp_switch']:checked + label {
+border: 2px solid #FF7043;
+opacity: 1;
+}
+.cp_cssslider input[name='cp_switch'] ~ img {
+opacity: 0;
+}
+.cp_cssslider input[name='cp_switch']:checked + label + img {
+opacity: 1;
+}
+
+
 <div id="slideshow">
 <p class="active">
         <a href="searchbyprefecture.markdown"><img src="8D0BE253-069E-48F3-B903-DE002E58BF93-min.jpeg" width="500" height="300" alt=""></a>
