@@ -11,7 +11,6 @@ permalink: /searchbypicture/
 <script type="text/javascript">
 $(document).ready(function(){
             $('.slider').bxSlider({
-                width: 100%,
                 auto: true,
                 pause: 5000,
                 captions: true,
