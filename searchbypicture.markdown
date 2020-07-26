@@ -10,7 +10,7 @@ permalink: /searchbypicture/
 
 
 <style>
-ul.slider img
+ul.slider > li > img
 {
 width:100%;
 }
