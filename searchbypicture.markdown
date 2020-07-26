@@ -19,6 +19,15 @@ permalink: /searchbypicture/
         });
 </script>
 
+.bx-wrapper .bx-viewport {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border:none;
+    left: 0px;
+    background-color:transparent;
+}
+
 <body>
 <div class="slider">
 <ul class=”bxslider”>
