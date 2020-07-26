@@ -11,7 +11,6 @@ permalink: /searchbypicture/
 <script type="text/javascript">
         $(document).ready(function(){
             $('.slider').bxSlider({
-	        controlNav: "thumnails"
                 auto: true,
                 pause: 5000,
             });
