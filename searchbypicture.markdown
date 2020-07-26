@@ -12,7 +12,7 @@ permalink: /searchbypicture/
 <style>
 ul.slider img
 {
-width:100%;
+width:auto;
 }
 .bx-wrapper img {
     width:100%;
