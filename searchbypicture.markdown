@@ -4,13 +4,11 @@ title: Search by Picture
 permalink: /searchbypicture/
 ---
 
-<!-- jQuery library (served from Google) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<!-- bxSlider Javascript file -->
-<script src="/js/jquery.bxslider.min.js"></script>
-<!-- bxSlider CSS file -->
-<link href="/lib/jquery.bxslider.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
 
+<script type="text/javascript">
 $(document).ready(function(){
             $('.slider').bxSlider({
                 auto: true,
@@ -19,6 +17,7 @@ $(document).ready(function(){
                 touchEnabled: false
             });
         });
+            </script>
 
 <ul class="bxslider">
 <li><a href="https://alice0619.github.io/dh150.github.io/searchbyprefecture/"><img src="https://alice0619.github.io/dh150.github.io/8D0BE253-069E-48F3-B903-DE002E58BF93-min.jpeg" width="600" height="500" alt="Tsunoshima Ohashi (Yamaguchi)" title="Tsunoshima Ohashi (Yamaguchi)"></a></li>
