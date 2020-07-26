@@ -2,7 +2,6 @@
 layout: page
 title: Search by Picture
 permalink: /searchbypicture/
----
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -16,7 +15,7 @@ permalink: /searchbypicture/
             });
         });
 </script>
-
+---
 
 <div class="slider">
 <img src="8D0BE253-069E-48F3-B903-DE002E58BF93-min.jpeg" width="500" height="300" alt="Tsunoshima Ohashi (Yamaguchi)">
