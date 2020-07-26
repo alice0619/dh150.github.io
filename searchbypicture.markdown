@@ -5,70 +5,66 @@ permalink: /searchbypicture/
 ---
 
 <style type="text/css">
-		#slideshow {
-			position: relative;
-			width:  640px;
-			height: 300px;
-		}
+#slideshow {
+   position: relative;
+   width:  640px; /* ボックスの横幅 */
+   height: 300px; /* ボックスの高さ */
+}
 
-		#slideshow p {
-			position: absolute;
-			top:  0;
-			left: 0;
-			z-index: 8;
-			opacity: 0.0;
-			background-color: white;
-			margin: 0;
-			height: 300px;
-		}
+#slideshow p {
+   position: absolute;
+   top:  0;
+   left: 0;
+   z-index: 8;
+   opacity: 0.0;
+   margin: 0;
+   background-color: white; /* ボックスの背景色(必須) */
+   height: 300px; /* ボックスの高さ */
+}
 
-		#slideshow p.active {
-			z-index: 10;
-			opacity: 1.0;
-		}
+#slideshow p.active {
+   z-index: 10;
+   opacity: 1.0;
+}
 
-		#slideshow p.last-active {
-			z-index: 9;
-		}
+#slideshow p.last-active {
+   z-index: 9;
+}
 
-		#slideshow p img {
-			width: 640px;
-			height: 270px;
-			display: block;
-			border: 0;
-			margin-bottom: 10px;
-		}
+#slideshow p img {
+   width:  640px; /* 画像の横幅 */
+   height: 270px; /* 画像の高さ */
+   display: block;
+   border: 0;
+   margin-bottom: 10px; /* 画像下部の余白 */
+}
 </style>
-
 
 <script src=""https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
                    
                    
 <script type="text/javascript">
+function slideSwitch() {
+   var $active = $('#slideshow p.active');
 
-		function slideSwitch() {
-			var $active = $('#slideshow p.active');
+   if ( $active.length == 0 ) $active = $('#slideshow p:last');
 
-			if ( $active.length == 0 ) $active = $('#slideshow p:last');
+   var $next =  $active.next().length ? $active.next()
+      : $('#slideshow p:first');
 
-			var $next =  $active.next().length ? $active.next()
-			    : $('#slideshow p:first');
+   $active.addClass('last-active');
 
-			$active.addClass('last-active');
+   $next.css({opacity: 0.0})
+      .addClass('active')
+      .animate({opacity: 1.0}, 1000, function() {
+         $active.removeClass('active last-active');
+      });
+}
 
-			$next.css({opacity: 0.0})
-			    .addClass('active')
-			    .animate({opacity: 1.0}, 1000, function() {
-			        $active.removeClass('active last-active');
-			    });
-		}
-
-		$(function() {
-		    setInterval( "slideSwitch()", 2100 );
-		});
-
+$(function() {
+   setInterval( "slideSwitch()", 5000 );
+});
 </script>
-
 
 <div id="slideshow">
 <p class="active">
