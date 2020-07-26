@@ -4,83 +4,32 @@ title: Search by Picture
 permalink: /searchbypicture/
 ---
 
-<div class="cp_cssslider">
-<input type="radio" name="cp_switch" id="Tsunoshima Ohashi (Yamaguchi)" checked/>
-<label for="Tsunoshima Ohashi (Yamaguchi)"><img src="8D0BE253-069E-48F3-B903-DE002E58BF93-min.jpeg" /></label>
-<img src="8D0BE253-069E-48F3-B903-DE002E58BF93-min.jpeg" />
-<input type="radio" name="cp_switch" id="Itsukushima Jinja (Hiroshima)"/>
-<label for="Itsukushima Jinja (Hiroshima)"><img src="94330D2F-2703-47D2-BA21-89AE2FFF84D5-min.jpeg" /></label>
-<img src="94330D2F-2703-47D2-BA21-89AE2FFF84D5-min.jpeg" />
-<input type="radio" name="cp_switch" id="Kanmon Kaikyo (Yamaguchi/Fukuoka)"/>
-<label for="Kanmon Kaikyo (Yamaguchi/Fukuoka)"><img src="A54B0539-92DD-4828-A5D3-2D3123BD897B-min.jpeg" /></label>
-<img src="A54B0539-92DD-4828-A5D3-2D3123BD897B-min.jpeg" />
-<input type="radio" name="cp_switch" id="Motonosumi Inari Jinja (Yamaguchi)"/>
-<label for="Motonosumi Inari Jinja (Yamaguchi)"><img src="CD2C95F7-AF6B-4474-9980-AAA17B422D3E-min.jpeg" /></label>
-<img src="CD2C95F7-AF6B-4474-9980-AAA17B422D3E-min.jpeg" />
-</div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
+<script type="text/javascript">
+        $(document).ready(function(){
+            $('.slider').bxSlider({
+                auto: true,
+                pause: 5000,
+            });
+        });
+</script>
 
 
-*, *:before, *:after {
--webkit-box-sizing: border-box;
-box-sizing: border-box;
-}
-.cp_cssslider {
-width: 300px;
-padding-top: 200px; /* 画像の高さ */
-position: relative;
-margin: 2em auto;
-text-align: center;
-}
-.cp_cssslider > img {
-position: absolute;
-left: 0;
-top: 0;
-transition: all 0.5s;
-border-radius: 3px;
-box-shadow:0px 0px 5px 0px rgba(0,0,0,0.3);
-}
-.cp_cssslider input[name='cp_switch'] {
-display: none;
-}
-/* サムネイル */
-.cp_cssslider label {
-margin: 15px 5px 0 5px;
-border: 2px solid #ffffff;
-display: inline-block;
-cursor: pointer;
-transition: all 0.5s ease;
-opacity: 0.6;
-border-radius: 3px;
-}
-.cp_cssslider label:hover {
-opacity: 0.9;
-}
-.cp_cssslider label img {
-display: block;
-width: 40px;
-border-radius: 2px;
-}
-.cp_cssslider input[name='cp_switch']:checked + label {
-border: 2px solid #FF7043;
-opacity: 1;
-}
-.cp_cssslider input[name='cp_switch'] ~ img {
-opacity: 0;
-}
-.cp_cssslider input[name='cp_switch']:checked + label + img {
-opacity: 1;
-}
-
-
-<div id="slideshow">
-<p class="active">
-        <a href="searchbyprefecture.markdown"><img src="8D0BE253-069E-48F3-B903-DE002E58BF93-min.jpeg" width="500" height="300" alt=""></a>
+<div class="slider">
+        <a href="searchbyprefecture.markdown">
+                <img src="8D0BE253-069E-48F3-B903-DE002E58BF93-min.jpeg" width="500" height="300" alt="Tsunoshima Ohashi (Yamaguchi)"></a>
                 Tsunoshima Ohashi (Yamaguchi)</p>
-        <p><a href="searchbyprefecture.markdown"><img src="94330D2F-2703-47D2-BA21-89AE2FFF84D5-min.jpeg" width="500" height="300" alt=""></a>
+        <p><a href="searchbyprefecture.markdown">
+        <img src="94330D2F-2703-47D2-BA21-89AE2FFF84D5-min.jpeg" width="500" height="300" alt="Istukuma Jinja (Hiroshima)"></a>
                 Istukuma Jinja (Hiroshima)</p>
-        <p><a href="searchbyprefecture.markdown"><img src="A54B0539-92DD-4828-A5D3-2D3123BD897B-min.jpeg" width="500" height="300" alt=""></a>
+        <p><a href="searchbyprefecture.markdown">
+        <img src="A54B0539-92DD-4828-A5D3-2D3123BD897B-min.jpeg" width="500" height="300" alt="Kanmon Kaikyo (Yamaguchi/Fukuoka)"></a>
                 Kanmon Kaikyo (Yamaguchi/Fukuoka)</p>
-        <p><a href="searchbyprefecture.markdown"><img src="CD2C95F7-AF6B-4474-9980-AAA17B422D3E-min.jpeg" width="500" height="300" alt=""></a>
+        <p><a href="searchbyprefecture.markdown">
+        <img src="CD2C95F7-AF6B-4474-9980-AAA17B422D3E-min.jpeg" width="500" height="300" alt="Motonosumi Inari Jinja (Yamaguchi)"></a>
                 Motonosumi Inari Jinja (Yamaguchi)</p>
 </div>
                                                                                   
