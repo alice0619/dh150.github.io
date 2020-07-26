@@ -7,12 +7,9 @@ layout: home
 
 <aside class="social-share">
     <h2>Share this:</h2>
-
     <ul>
         <li class="twitter"><a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}{% if page.description %}&text={{ page.description | url_escape }}{% else %}{{ page.title | url_escape }}{% endif %}{% if site.twitter %}&via={{ site.twitter }}{% endif %}" title="Share on Twitter">Twitter</a></li>
-
         <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}{% if page.description %}&t={{ page.description | url_escape }}{% else %}{{ page.title | url_escape }}{% endif %}" title="Share on Facebook">Facebook</a></li>
-
         <li class="instagram"><a href="https://www.instagram.com/travelinginwjapan/={{ site.url }}{{ page.url }}" title="Share on Google Plus">Google+</a></li>
     </ul>
 </aside>
