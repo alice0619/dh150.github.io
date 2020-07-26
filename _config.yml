@@ -23,7 +23,9 @@ email: alice06192000@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This website is for digital humanities 150A at University of California Berkeley. My website introduces West Japan for travel and why. Also, this website is collabolative so that everyone can edit.
   Follow our instagram!
-  <a href="https://www.instagram.com/travelinginwjapan/"><img src="https://github.com/alice0619/dh150.github.io/travelinginwjapan_nametag.png" alt=""></a>
+  <a href="https://www.instagram.com/travelinginwjapan/">
+  <img src="travelinginwjapan_nametag.png" alt="">
+  </a>
 baseurl: "/dh150.github.io/" # the subpath of your site, e.g. /blog
 url: "https://alice0619.github.io/dh150.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
