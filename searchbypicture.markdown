@@ -56,8 +56,8 @@ permalink: /searchbypicture/
 
 <script src=""https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
                                                                                   
-
-<script type="text/javascript">
+                                                                                  
+                                                                                  <script type="text/javascript">
 function slideSwitch() {
    var $active = $('#slideshow p.active');
 
@@ -76,7 +76,6 @@ function slideSwitch() {
 }
 
 $(function() {
-   setInterval( "slideSwitch()", 5000 );
+   setInterval( "slideSwitch()", 00 );
 });
 </script>
-
