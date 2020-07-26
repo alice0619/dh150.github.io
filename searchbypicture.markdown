@@ -14,7 +14,7 @@ permalink: /searchbypicture/
 {
 width:100%;
 }
-.bx-wrapper img {
+bx-wrapper img {
     width:100%;
 }
 </style>
