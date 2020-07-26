@@ -19,7 +19,7 @@ $(document).ready(function(){
         });
             </script>
 
-<div class="bxslider">
+<div class="slider">
 <ul class="bxslider">
 <li><a href="https://alice0619.github.io/dh150.github.io/searchbyprefecture/"><img src="https://alice0619.github.io/dh150.github.io/8D0BE253-069E-48F3-B903-DE002E58BF93-min.jpeg" width="600" height="500" alt="Tsunoshima Ohashi (Yamaguchi)" title="Tsunoshima Ohashi (Yamaguchi)"></a></li>
 <li><a href="https://alice0619.github.io/dh150.github.io/searchbyprefecture/"><img src="https://alice0619.github.io/dh150.github.io/94330D2F-2703-47D2-BA21-89AE2FFF84D5-min.jpeg" width="600" height="500" alt="Itsukushima Jinja (Hiroshima)" title="Itsukushima Jinja (Hiroshima)"></a></li>
