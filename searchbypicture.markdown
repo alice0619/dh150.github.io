@@ -4,19 +4,6 @@ title: Search by Picture
 permalink: /searchbypicture/
 ---
 
-<div id="slideshow">
-<p class="active">
-        <a href="searchbyprefecture.markdown"><img src="8D0BE253-069E-48F3-B903-DE002E58BF93-min.jpeg" width="500" height="300" alt=""></a>
-                Tsunoshima Ohashi (Yamaguchi)</p>
-        <p><a href="searchbyprefecture.markdown"><img src="94330D2F-2703-47D2-BA21-89AE2FFF84D5-min.jpeg" width="500" height="300" alt=""></a>
-                Istukuma Jinja (Hiroshima)</p>
-        <p><a href="searchbyprefecture.markdown"><img src="A54B0539-92DD-4828-A5D3-2D3123BD897B-min.jpeg" width="500" height="300" alt=""></a>
-                Kanmon Kaikyo (Yamaguchi/Fukuoka)</p>
-        <p><a href="searchbyprefecture.markdown"><img src="CD2C95F7-AF6B-4474-9980-AAA17B422D3E-min.jpeg" width="500" height="300" alt=""></a>
-                Motonosumi Inari Jinja (Yamaguchi)</p>
-</div>
-
-
 <style type="text/css">
 #slideshow {
    position: relative;
@@ -54,10 +41,7 @@ permalink: /searchbypicture/
 </style>
 
 
-<script src=""https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
-                                                                                  
-                                                                                  
-                                                                                  <script type="text/javascript">
+<script type="text/javascript">                        
 function slideSwitch() {
    var $active = $('#slideshow p.active');
 
@@ -79,3 +63,20 @@ $(function() {
    setInterval( "slideSwitch()", 00 );
 });
 </script>
+
+
+<script src=""https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
+
+
+<div id="slideshow">
+<p class="active">
+        <a href="searchbyprefecture.markdown"><img src="8D0BE253-069E-48F3-B903-DE002E58BF93-min.jpeg" width="500" height="300" alt=""></a>
+                Tsunoshima Ohashi (Yamaguchi)</p>
+        <p><a href="searchbyprefecture.markdown"><img src="94330D2F-2703-47D2-BA21-89AE2FFF84D5-min.jpeg" width="500" height="300" alt=""></a>
+                Istukuma Jinja (Hiroshima)</p>
+        <p><a href="searchbyprefecture.markdown"><img src="A54B0539-92DD-4828-A5D3-2D3123BD897B-min.jpeg" width="500" height="300" alt=""></a>
+                Kanmon Kaikyo (Yamaguchi/Fukuoka)</p>
+        <p><a href="searchbyprefecture.markdown"><img src="CD2C95F7-AF6B-4474-9980-AAA17B422D3E-min.jpeg" width="500" height="300" alt=""></a>
+                Motonosumi Inari Jinja (Yamaguchi)</p>
+</div>
+                                                                                  
