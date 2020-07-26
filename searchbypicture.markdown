@@ -4,9 +4,12 @@ title: Search by Picture
 permalink: /searchbypicture/
 ---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+<!-- jQuery library (served from Google) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- bxSlider Javascript file -->
+<script src="/js/jquery.bxslider.min.js"></script>
+<!-- bxSlider CSS file -->
+<link href="/lib/jquery.bxslider.css" rel="stylesheet" />
 
 <script type="text/javascript">
         $(document).ready(function(){
