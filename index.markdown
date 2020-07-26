@@ -20,8 +20,10 @@ layout: home
 
 <div id="slideshow">
 <p class="active">
-        <img src="8D0BE253-069E-48F3-B903-DE002E58BF93-min.jpeg" width="500" height="300" alt="">説明１</p>
-        <p><img src="94330D2F-2703-47D2-BA21-89AE2FFF84D5-min.jpeg" width="500" height="300" alt="">説明2</p>
+        <a href="searchbyprefecture.markdown"><img src="8D0BE253-069E-48F3-B903-DE002E58BF93-min.jpeg" width="500" height="300" alt=""></a>
+        Tsunoshima Ohashi (Yamaguchi)</p>
+        <a href="searchbyprefecture.markdown"><p><img src="94330D2F-2703-47D2-BA21-89AE2FFF84D5-min.jpeg" width="500" height="300" alt=""></a>
+        Istukuma Jinja (Hiroshima)</p>
 <img src="A54B0539-92DD-4828-A5D3-2D3123BD897B-min.jpeg" width="500" height="300" alt="">
 <img src="CD2C95F7-AF6B-4474-9980-AAA17B422D3E-min.jpeg" width="500" height="300" alt="">
 </div>
