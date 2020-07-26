@@ -3,11 +3,9 @@ layout: page
 title: Search by Picture
 permalink: /searchbypicture/
 ---
-<head>
 <link rel=”stylesheet” href=”flexslider.css” type=”text/css”>
 	<script src=”http://code.jquery.com/jquery-1.10.2.min.js”></script>
 	<script src=”jquery.flexslider-min.js”></script>
-</head>
 
 <div>
 	<ul>
