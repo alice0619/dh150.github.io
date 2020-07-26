@@ -13,9 +13,11 @@ permalink: /searchbypicture/
 ul.slider img
 {
 width:100%;
+height: auto;
 }
 .bx-wrapper img {
     width:100%;
+    height: auto;
 }
 </style>
 
