@@ -13,7 +13,8 @@ permalink: /searchbypicture/
             $('.slider').bxSlider({
                 auto: true,
                 pause: 5000,
-                captions: true
+                captions: true,
+                touchEnabled: false
             });
         });
 </script>
