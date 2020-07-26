@@ -19,9 +19,17 @@ permalink: /searchbypicture/
 
 
 <div class="slider">
+        <a href＝"https://alice0619.github.io/dh150.github.io/searchbyprefecture/">
 <img src="https://alice0619.github.io/dh150.github.io/8D0BE253-069E-48F3-B903-DE002E58BF93-min.jpeg" width="600" height="500" alt="Tsunoshima Ohashi (Yamaguchi)">
+        </a>
+        <a href="https://alice0619.github.io/dh150.github.io/searchbyprefecture/">
 <img src="https://alice0619.github.io/dh150.github.io/94330D2F-2703-47D2-BA21-89AE2FFF84D5-min.jpeg" width="600" height="500" alt="Itsukushima Jinja (Hiroshima)">
+        </a>
+        <a href="https://alice0619.github.io/dh150.github.io/searchbyprefecture/">
 <img src="https://alice0619.github.io/dh150.github.io/A54B0539-92DD-4828-A5D3-2D3123BD897B-min.jpeg" width="600" height="500" alt="Kanmon Kaikyo (Yamaguchi/Fukuoka)">
+        </a>
+        <a href="https://alice0619.github.io/dh150.github.io/searchbyprefecture/">
 <img src="https://alice0619.github.io/dh150.github.io/CD2C95F7-AF6B-4474-9980-AAA17B422D3E-min.jpeg" width="600" height="500" alt="Motonosumi Inari Jinja (Yamaguchi)">
+        </a>
 </div>
                                                                                   
