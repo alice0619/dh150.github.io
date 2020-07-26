@@ -8,3 +8,8 @@ permalink: /discussion/
 <script src="http://pub35.bravenet.com/forum/3005346827/" type="text/javascript" charset="utf-8"></script>
 <!-- Bravenet Embedded Service Code -->
 <script src="http://apps.bravenet.com/go.js?service=forum;id=1;usernum=3005346827" type="text/javascript" charset="utf-8"></script>
+
+
+<!-- Bravenet Remote Service Code -->
+<a style="font: bold 14px arial,sans-serif;" href="http://pub35.bravenet.com/forum/3005346827/">View my Forum</a><br>
+<a style="font: 12px arial,sans-serif;" href="http://www.bravenet.com/webtools/forum/" >Free Forum by Bravenet.com</a>
