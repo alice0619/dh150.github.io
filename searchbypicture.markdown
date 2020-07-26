@@ -27,7 +27,7 @@ $(document).ready(function(){
                 pause: 5000,
                 captions: true,
                 touchEnabled: false,
-                slideWidth: 600
+                slideMargin: 10
             });
         });
             </script>
