@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<style type="text/css"> # CSS for slideshow
+<style type="text/css">
 		#slideshow {
 			position: relative;
 			width:  640px;
@@ -40,7 +40,7 @@ layout: home
 		}
 	</style>
         
-<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script> # JQuery for slideshow
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 <script type="text/javascript">
 
 		function slideSwitch() {
