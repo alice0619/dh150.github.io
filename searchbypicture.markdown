@@ -4,14 +4,6 @@ title: Search by Picture
 permalink: /searchbypicture/
 ---
 
-<script type=”text/javascript”>
-        $(window).load(function() {
-	$(‘.flexslider’).flexslider({
-		animation: “slide”,
-		controlNav: “thumbnails”
-	});
-});
-</script>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -20,6 +12,7 @@ permalink: /searchbypicture/
 <script type="text/javascript">
         $(document).ready(function(){
             $('.slider').bxSlider({
+	        controlNav: "thumnails"
                 auto: true,
                 pause: 5000,
             });
