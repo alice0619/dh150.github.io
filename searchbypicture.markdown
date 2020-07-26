@@ -16,6 +16,7 @@ permalink: /searchbypicture/
                 Motonosumi Inari Jinja (Yamaguchi)</p>
 </div>
 
+
 <style type="text/css">
 #slideshow {
    position: relative;
@@ -51,6 +52,11 @@ permalink: /searchbypicture/
    margin-bottom: 10px; /* 画像下部の余白 */
 }
 </style>
+
+
+<script src=""https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
+                                                                                  
+
 <script type="text/javascript">
 function slideSwitch() {
    var $active = $('#slideshow p.active');
@@ -74,4 +80,3 @@ $(function() {
 });
 </script>
 
-<script src=""https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
