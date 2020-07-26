@@ -26,7 +26,8 @@ $(document).ready(function(){
                 auto: true,
                 pause: 5000,
                 captions: true,
-                touchEnabled: false
+                touchEnabled: false,
+                slideWidth: 600
             });
         });
             </script>
