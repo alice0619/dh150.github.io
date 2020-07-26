@@ -21,11 +21,13 @@ layout: home
 <div id="slideshow">
 <p class="active">
         <a href="searchbyprefecture.markdown"><img src="8D0BE253-069E-48F3-B903-DE002E58BF93-min.jpeg" width="500" height="300" alt=""></a>
-        Tsunoshima Ohashi (Yamaguchi)</p>
-        <a href="searchbyprefecture.markdown"><p><img src="94330D2F-2703-47D2-BA21-89AE2FFF84D5-min.jpeg" width="500" height="300" alt=""></a>
-        Istukuma Jinja (Hiroshima)</p>
-<img src="A54B0539-92DD-4828-A5D3-2D3123BD897B-min.jpeg" width="500" height="300" alt="">
-<img src="CD2C95F7-AF6B-4474-9980-AAA17B422D3E-min.jpeg" width="500" height="300" alt="">
+                Tsunoshima Ohashi (Yamaguchi)</p>
+        <p><a href="searchbyprefecture.markdown"><img src="94330D2F-2703-47D2-BA21-89AE2FFF84D5-min.jpeg" width="500" height="300" alt=""></a>
+                Istukuma Jinja (Hiroshima)</p>
+        <p><a href="searchbyprefecture.markdown"><img src="A54B0539-92DD-4828-A5D3-2D3123BD897B-min.jpeg" width="500" height="300" alt=""></a>
+                Kanmon Kaikyo (Yamaguchi/Fukuoka)</p>
+        <p><a href="searchbyprefecture.markdown"><img src="CD2C95F7-AF6B-4474-9980-AAA17B422D3E-min.jpeg" width="500" height="300" alt=""></a>
+                Motonosumi Inari Jinja (Yamaguchi)</p>
 </div>
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1rMVt1bc2Xd8mjDe3hJpEtVabljleHwMF" width="640" height="480"></iframe>
