@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Discussion
-permalink: /Discussion/
+permalink: /discussion/
 ---
 
 <!-- Bravenet Embedded Service Code -->
