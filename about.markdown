@@ -6,6 +6,17 @@ permalink: /about/
 
 This website introduces West Japan for travel and is collabolative so that everyone can edit!
 
+<iframe width="560" height="315"
+src="https://youtu.be/KiwF4R9RQrY
+?loop=1
+&playlist=vdxoDyNAoH0
+&autoplay=1
+&mute=1
+&rel=0
+&modestbranding=1"
+frameborder="0" allowfullscreen>
+</iframe>
+
 ### Why West Japan?
 <img src="https://github.com/alice0619/dh150.github.io/blob/master/visitrate.png?raw=true" alt="Visit Rate (%)" title="Visit Rate by Pref">
 (Data by Japan Tourism Agency "Consumption Trend Survey for Foreigners Visiting Japan 2018")
