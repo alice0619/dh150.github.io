@@ -8,6 +8,17 @@ permalink: /searchbypicture/
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
 
+
+<style>
+.slider img
+{
+width:100%;
+max-width: 100%;
+height: auto;
+}
+</style>
+
+
 <script type="text/javascript">
 $(document).ready(function(){
             $('.slider').bxSlider({
@@ -19,10 +30,6 @@ $(document).ready(function(){
             });
         });
             </script>
-
-.slider img {
-  width: 100%;
-}
  
 
 
