@@ -23,7 +23,7 @@ width:100%;
 <script type="text/javascript">
 $(document).ready(function(){
             $('.slider').bxSlider({
-                slidewidth: 700,
+                slidewidth: 00,
                 auto: true,
                 pause: 5000,
                 captions: true,
