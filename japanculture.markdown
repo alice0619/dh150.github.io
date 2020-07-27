@@ -4,8 +4,17 @@ title: Japan Culture
 permalink: /japanculture/
 ---
 
+## Contents
+[What's Japan?](#Anchor1)
+[WHat Are Japanese People Like?](#Anchor2)
+[Greetings](#Anchor3)
+
+
+<a id="anchor1"></a>
 ## What's Japan?
 
+
+<a id="anchor2"></a>
 ## What Are Japanese People Like?
 >Many have heard of the traditional greeting in Japan, which is bowing during any given exchange. Greetings are very formal and ritualized in Japan. It is important to display the correct amount of respect based upon their status relative to your own. Although this may be true, handshakes are common in Japan as well, which is expected from foreigners.
 >
@@ -28,6 +37,8 @@ permalink: /japanculture/
 >Japanese people value harmony and etiquette; they have a highly structured and traditional society. On the contrary, this is conventional enlightenment on Japanese society and culture, and is not meant to stereotype every Japanese person.
 ><div style="text-align: right;">(All Japan Tours https://alljapantours.com)</div>
 
+
+<a id="anchor3"></a>
 ## Greetings
 ### Basics
 - ***Arigatou gozaimasu***.   
