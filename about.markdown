@@ -15,11 +15,11 @@ This website introduces West Japan for travel and is collabolative so that every
 By the graph above, most foreigners visit Tokyo, Osaka, Kyoto, or popular spots which are introduced by many guidebooks. This website introduces the spots in Japan where are not famous but worth to visit!
 
 ### Site Map
-- *Home*: See what's new, blog, and use the interactive map to check out spots!
-- *About*: Here.
-- *Contact us*: Send us any questions or concerns!
-- *Discussion*: Please share your experience, recommendation, suggestion etc about Japan!
-- *Featured Articles*: Introduces featured articles about Japan!
-- *Japan Culture*: Introduces what's good to know when you visit Japan or meet Japanese people!
-- *Search by Picture*: Find your favorite Japanese pictures!
-- *Search by Prefecture*: Index of prefectures and list spots in Japan!
+- ***Home***: See what's new, blog, and use the interactive map to check out spots!
+- ***About***: Here.
+- ***Contact us***: Send us any questions or concerns!
+- ***Discussion***: Please share your experience, recommendation, suggestion etc about Japan!
+- ***Featured Articles***: Introduces featured articles about Japan!
+- ***Japan Culture***: Introduces what's good to know when you visit Japan or meet Japanese people!
+- ***Search by Picture***: Find your favorite Japanese pictures!
+- ***Search by Prefecture***: Index of prefectures and list spots in Japan!
