@@ -49,7 +49,7 @@ The pass can be used only by foreign tourists and offers unlimited rides on JR t
   class="hatenablogcard" 
   style="width:100%;height:155px;max-width:680px;" 
   title="Japan Rail Pass (JR Pass)" 
-  src="https://hatenablog-parts.com/embed?url=https://www.japan-guide.com/e/e2361.html" 
+  src="https://hatenablog-parts.com/embed?url=https://japanrailpass.store" 
   width="300" height="150" frameborder="0" scrolling="no">
 </iframe>
 
