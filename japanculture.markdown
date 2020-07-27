@@ -12,7 +12,7 @@ permalink: /japanculture/
 
 <a id="Anchor1" href="#Anchor1"></a>
 ## What's Japan?
-<img src="https://github.com/alice0619/dh150.github.io/image.png">
+<img src="image.png">
 
 
 <a id="Anchor2" href="#Anchor2"></a>
