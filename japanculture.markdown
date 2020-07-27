@@ -55,6 +55,8 @@ Click the flag and jump to Wikipedia!
 (After meals, “It was a great deal of work (preparing the meal).” Thus, it can be interpreted in Japanese as “Thank you for the meal.")
 
 ### Others
+You can check the pronouciations here.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lw88ngiXo58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Manners
 
