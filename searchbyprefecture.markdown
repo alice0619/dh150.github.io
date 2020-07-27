@@ -5,7 +5,7 @@ permalink: /searchbyprefecture/
 ---
 
 ## Contents
-- Aich
+- [Aich](#Aichi)
 - Hiroshima
 - Okayama
 - Tottori
