@@ -12,7 +12,8 @@ permalink: /japanculture/
 
 <a id="Anchor1" href="#Anchor1"></a>
 ## What's Japan?
-<img src="image.png">
+<a href="https://en.wikipedia.org/wiki/Japan"><img src="image.png"></a>
+Click the flag and jump to Wikipedia!
 
 
 <a id="Anchor2" href="#Anchor2"></a>
