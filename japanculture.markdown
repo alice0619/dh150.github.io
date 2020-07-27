@@ -14,7 +14,7 @@ permalink: /japanculture/
 ## What's Japan?
 
 
-<a href="anchor2"></a>
+<a id="Anchor2" href="#Anchor2"></a>
 ## What Are Japanese People Like?
 >Many have heard of the traditional greeting in Japan, which is bowing during any given exchange. Greetings are very formal and ritualized in Japan. It is important to display the correct amount of respect based upon their status relative to your own. Although this may be true, handshakes are common in Japan as well, which is expected from foreigners.
 >
@@ -38,7 +38,7 @@ permalink: /japanculture/
 ><div style="text-align: right;">(All Japan Tours https://alljapantours.com)</div>
 
 
-<a href="anchor3"></a>
+<a id="Anchor3" href="#Anchor3"></a>
 ## Greetings
 ### Basics
 - ***Arigatou gozaimasu***.   
