@@ -10,7 +10,7 @@ permalink: /japanculture/
 3. [Greetings](#Anchor3)
 
 
-<a href="anchor1"></a>
+<a id="Anchor1" href="#Anchor1"></a>
 ## What's Japan?
 
 
