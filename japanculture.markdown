@@ -47,6 +47,20 @@ Click the flag and jump to Wikipedia!
 (Thank you very much.)
 - ***Sumimasen***.   
 (Excuse me.)
+- ***Hajimemashite***.  
+(Nice to meet you. *This is for the first time only!*.)
+- ***Yoroshiku onegaishimasu***.  
+(*This has several meanings.*
+1. *Use with 'Hajimemashite' and it means 'Nice to meet you.'*
+2. *When you need to ask someone to do a favor for you.*
+3. *When you are introducing someone else such as your child to others.*
+4. *Use at the end of your email or letters.*)
+- ***Ohayou gozaimasu***.  
+(Good morning.)
+- ***Sayounara***.  
+(Good bye.)
+- ***Oyasuminasai***.  
+(Good night.)
 
 ### Eating
 - ***Itadakimasu***.   
