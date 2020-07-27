@@ -7,8 +7,8 @@ layout: home
 <div style="margin:0px;padding:0px;" align="center">
 <div style="margin:0px;padding:0px;line-height:1.3;">
 <div style="margin:0px;padding:10px;line-height:1.3;overflow:auto;text-align:left;height:150px;">
-	<font size="5"><b><i><u> What's New? </u></i></b></font> <br>
-7/26/20<br>
+	<font size="5"><b><i> What's New? </i></b></font> <br>
+	<u> 7/26/20 </u><br>
 	Added Instagram and Twitter accounts. You can access from the bottom.<br>
 	<br>
 	<br>
