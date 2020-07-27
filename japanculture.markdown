@@ -5,9 +5,9 @@ permalink: /japanculture/
 ---
 
 ## Contents
-[What's Japan?](#Anchor1)
-[WHat Are Japanese People Like?](#Anchor2)
-[Greetings](#Anchor3)
+1. [What's Japan?](#Anchor1)
+2. [WHat Are Japanese People Like?](#Anchor2)
+3. [Greetings](#Anchor3)
 
 
 <a id="anchor1"></a>
