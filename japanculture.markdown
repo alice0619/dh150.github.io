@@ -39,6 +39,14 @@ Click the flag and jump to Wikipedia!
 >Japanese people value harmony and etiquette; they have a highly structured and traditional society. On the contrary, this is conventional enlightenment on Japanese society and culture, and is not meant to stereotype every Japanese person.
 ><div style="text-align: right;">(All Japan Tours https://alljapantours.com)</div>
 
+## Japan Rail Pass
+<iframe 
+  class="hatenablogcard" 
+  style="width:100%;height:155px;max-width:680px;" 
+  title="Japan Rail Pass (JR Pass)" 
+  src="https://hatenablog-parts.com/embed?url=https://www.japan-guide.com/e/e2361.html" 
+  width="300" height="150" frameborder="0" scrolling="no">
+</iframe>
 
 <a id="Anchor3" href="#Anchor3"></a>
 ## Greetings
