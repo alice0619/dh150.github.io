@@ -7,13 +7,26 @@ permalink: /japanculture/
 ## What's Japan?
 
 ## What Are Japanese People Like?
->Well, on the whole you can categorize most Japanese people as 1. Polite, 2. Respectful, and 3. Helpful. And I think that any foreigner who has been to Japan will agree with those statements. However, with those labels being drawn…it is also necessary to  mention the tendency for Americans to view the Japanese as being “closed-off” or “unemotional”, which, in my opinion, is a misunderstanding of typical Japanese culture.
+>Many have heard of the traditional greeting in Japan, which is bowing during any given exchange. Greetings are very formal and ritualized in Japan. It is important to display the correct amount of respect based upon their status relative to your own. Although this may be true, handshakes are common in Japan as well, which is expected from foreigners.
 >
->One of the first lessons that anyone coming to Japan must learn is the cleverly basic and important cultural concepts of tatemae (建前) and honne (本音). Tatemae refers to the outward self, the one that you present to society, while honne refers to your inner self, which is comprised of your true feelings and person. In America we have a similar constructs but with emphasis placed on different values, like individualism and freedom. However,  in Japan it is more important to fit in and be in harmony with those around you (particularly your circle of friends) than to be unique. With these values in mind, the Japanese use the concepts of tatemae and hone to maintain an air of politeness no matter what situation they are in.
+>Japan’s society is organized into a hierarchy. The Japanese people are very conscious about one’s age and status, be it in a social or business situation. Traditionally, seniority has been the main qualification for a higher rank. It is emphasized in Japan that younger people show respect and deference when socializing with their seniors.
 >
->When it comes to creating harmony, it’s very important that the Japanese are able to understand their social situation at any given time. Whether that means knowing where they stand in a group’s hierarchy or being able to guess where someone else wants to eat, unconsciously reading a situation is necessary in order to be able to fit in. So, what this translates to is another cultural concept called joushiki (常識). While joushiki is often translated into English as “common sense” it is also used to describe a process called “reading the air” or understanding the social situation around you. While typical Americans expect others to express their emotions (either verbally or physically), in Japan it is expected of you to know how others are feeling without them having to say anything.
+>...
 >
->As one can imagine, this creates can often create a large cultural misunderstanding when Americans and Japanese people are trying to communicate with each other because a Japanese person will do their best to maintain politeness no matter what. Rather than “open up” about how they are feeling, they will put forth their best tatemae (outer self) expect that you will do your best to know what they are feeling by using joushiki (reading the air). Hence why you often have Americans who interpret Japanese behavior as “closed off”, cool or “shy”. Sure, you’ll have some Japanese folk who are going to be more quiet than others, but that’s because it is a part of their personality and not their culture. However, as a nation whose culture focuses on harmony and unity, this creates overall values of being polite, respectful and helpful to others (especially when it comes to foreigners), which is why so many Japanese will come across as having these sort of characteristics.
+>Japanese people value harmony. It is a guided philosophy placing great emphasis on personal responsibility, politeness, and working together as a universal. As a matter of fact, Japanese students would rather work in groups and share ideas than voice their opinions alone.
+>
+>Since there is need for harmonious relationships between people, it is reflected upon Japanese behavior. Japanese people rely on facial expressions, tone of voice, and posture to tell someone how they feel. Non-verbal communication is often trusted more than the spoken word, since words can have several meanings.
+>
+>...
+>
+>Saving face is important because it avoids unpleasantness with others. With this in mind, Japanese people will never openly criticize or put anyone on the spot. Turning down a request or saying “no” may cause loss of face or embarrassment to the other person. Instead, they may say “it’s inconvenient” or “this could be difficult” when there is a request that cannot be agreed to.
+>
+>Another highly ritualistic and meaningful custom in Japan is the gift giving etiquette. Gifts are given in many occasions, such as visiting another person’s house. Food like small cakes or nice quality chocolates are usually good gift ideas. To the Western mindset, this can be seen as being kind and polite.
+>
+>In business and social settings, punctuality is a must. Time management is important in Japan. It is courteous to show up to a business meeting or social gathering early or on time.
+>
+>Japanese people value harmony and etiquette; they have a highly structured and traditional society. On the contrary, this is conventional enlightenment on Japanese society and culture, and is not meant to stereotype every Japanese person.
+><div style="text-align: right;">(All Japan Tours https://alljapantours.com)</div>
 
 ## Greetings
 ### Basics
