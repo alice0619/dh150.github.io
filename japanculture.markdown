@@ -94,7 +94,7 @@ This is more practical, real, and fun!
 <iframe 
   class="hatenablogcard" 
   style="width:100%;height:155px;max-width:680px;" 
-  title="Japan Rail Pass (JR Pass)" 
+  title="Japanese Etiquette" 
   src="https://hatenablog-parts.com/embed?url=https://www.japan-guide.com/e/e622.html" 
   width="300" height="150" frameborder="0" scrolling="no">
 </iframe>
