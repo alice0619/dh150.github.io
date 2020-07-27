@@ -7,7 +7,9 @@ permalink: /japanculture/
 ## Contents
 1. [What's Japan?](#Anchor1)
 2. [WHat Are Japanese People Like?](#Anchor2)
-3. [Greetings](#Anchor3)
+3. [Japan Rail Pass](#Anchor3)
+4. [Greetings](#Anchor4)
+5. [Manners](#Anchor5)
 
 
 <a id="Anchor1" href="#Anchor1"></a>
@@ -39,7 +41,10 @@ Click the flag and jump to Wikipedia!
 >Japanese people value harmony and etiquette; they have a highly structured and traditional society. On the contrary, this is conventional enlightenment on Japanese society and culture, and is not meant to stereotype every Japanese person.
 ><div style="text-align: right;">(All Japan Tours https://alljapantours.com)</div>
 
+<a id="Anchor3" href="#Anchor3"></a>
 ## Japan Rail Pass
+The Japan Rail Pass is a very cost effective rail pass for long distance train travel in Japan.
+The pass can be used only by foreign tourists and offers unlimited rides on JR trains for one (about $300 for ordinary train), two ($450) or three weeks ($600) at a cost that residents of Japan can only dream of. It comes in two types: ordinary and green car. The latter is valid on green cars (first class cars) that offer more spacious seats than ordinary cars.
 <iframe 
   class="hatenablogcard" 
   style="width:100%;height:155px;max-width:680px;" 
@@ -48,7 +53,7 @@ Click the flag and jump to Wikipedia!
   width="300" height="150" frameborder="0" scrolling="no">
 </iframe>
 
-<a id="Anchor3" href="#Anchor3"></a>
+<a id="Anchor4" href="#Anchor4"></a>
 ## Greetings
 ### Basics
 - ***Arigatou gozaimasu***.   
@@ -83,7 +88,16 @@ You can check the pronouciations here (Formal).
 This is more practical, real, and fun!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OwR23DQb7WM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<a id="Anchor5" href="#Anchor5"></a>
 ## Manners
+
+<iframe 
+  class="hatenablogcard" 
+  style="width:100%;height:155px;max-width:680px;" 
+  title="Japan Rail Pass (JR Pass)" 
+  src="https://hatenablog-parts.com/embed?url=https://www.japan-guide.com/e/e622.html" 
+  width="300" height="150" frameborder="0" scrolling="no">
+</iframe>
 
 ## Holidays in Japan
 Better to avoid those seasons...
