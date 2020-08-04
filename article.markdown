@@ -24,6 +24,9 @@ permalink: /featuredarticle/
   width="300" height="150" frameborder="0" scrolling="no">
 </iframe>
       </td>
+      <td style="border:none;">
+        3
+      </td>
     </tr>
     <tr style="border:none;">
       <td style="border:none;">左側のコンテンツ（その２）</td>
