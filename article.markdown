@@ -4,6 +4,14 @@ title: Featured Articles
 permalink: /featuredarticle/
 ---
 
+## New Articles
+- Hiroshima: Japan Times 1945: New-type bombs used in raid on Hiroshima (The Japan Times)
+- Tottori: EMBRACE THE WONDERLAND OF TOTTORI PREFECTURE (Leisure group travel)
+- Shimane: West Japan aquarium welcomes first California sea lion birth in 11 years (The Mainichi)
+- Fukuoka: Death toll rises to 55 as rain damage widens in southwest Japan (The Mainichi)
+- Okayama: THE HEART OF KANJI: Help one another (Nichi Bei)
+- Yamaguchi: Iwakuni facility a remnant of 'special privileges' the city enjoyed for hosting base (The Japan Times)
+
 <table style="border:none;">
   <tbody style="border:none;">
     <tr style="border:none;">
@@ -62,10 +70,9 @@ permalink: /featuredarticle/
   width="300" height="150" frameborder="0" scrolling="no">
 </iframe>
       </td>
-    </tr>
-    <tr style="border:none;">
-      <td style="border:none;">左側のコンテンツ（その３）</td>
-      <td style="border:none;">右側のコンテンツ（その３）</td>
-    </tr>
   </tbody>
 </table>
+
+# Back Number
+
+
