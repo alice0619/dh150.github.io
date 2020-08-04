@@ -7,7 +7,14 @@ permalink: /featuredarticle/
 <table style="border:none;">
   <tbody style="border:none;">
     <tr style="border:none;">
-      <td style="border:none;">左側のコンテンツ（その１）</td>
+      <td style="border:none;">
+        <iframe 
+  class="hatenablogcard" 
+  style="width:100%;height:155px;max-width:680px;" 
+  title="Japan Rail Pass (JR Pass)" 
+  src="https://hatenablog-parts.com/embed?url=https://www.japantimes.co.jp/news/2020/08/01/national/history/japan-times-1945-new-type-bombs-used-raid-hiroshima/#.XylOVS0oe3U" 
+  width="300" height="150" frameborder="0" scrolling="no">
+</iframe></td>
       <td style="border:none;">右側のコンテンツ（その１）</td>
     </tr>
     <tr style="border:none;">
