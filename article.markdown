@@ -12,6 +12,7 @@ permalink: /featuredarticle/
 - Okayama: THE HEART OF KANJI: Help one another (Nichi Bei)
 - Yamaguchi: Iwakuni facility a remnant of 'special privileges' the city enjoyed for hosting base (The Japan Times)
 
+
 <table style="border:none;">
   <tbody style="border:none;">
     <tr style="border:none;">
@@ -68,9 +69,7 @@ permalink: /featuredarticle/
   title="Japan Rail Pass (JR Pass)" 
   src="https://hatenablog-parts.com/embed?url=https://www.japantimes.co.jp/news/2020/07/24/national/iwakuni-special-privileges-us-base-military/" 
   width="300" height="150" frameborder="0" scrolling="no">
-</iframe></td>
-  </tbody>
-</table>
+</iframe></td></tbody></table>
 
 
 
