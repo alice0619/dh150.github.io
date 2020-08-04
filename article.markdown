@@ -53,7 +53,15 @@ permalink: /featuredarticle/
   width="300" height="150" frameborder="0" scrolling="no">
 </iframe>
       </td>
-      <td style="border:none;">右側のコンテンツ（その２）</td>
+      <td style="border:none;">
+      <iframe 
+  class="hatenablogcard" 
+  style="width:100%;height:155px;max-width:680px;" 
+  title="Japan Rail Pass (JR Pass)" 
+  src="https://hatenablog-parts.com/embed?url=https://www.japantimes.co.jp/news/2020/07/24/national/iwakuni-special-privileges-us-base-military/" 
+  width="300" height="150" frameborder="0" scrolling="no">
+</iframe>
+      </td>
     </tr>
     <tr style="border:none;">
       <td style="border:none;">左側のコンテンツ（その３）</td>
