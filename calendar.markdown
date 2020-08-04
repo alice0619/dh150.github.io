@@ -5,13 +5,13 @@ permalink: /calendar/
 ---
 
 ## Japan Calendar
-This calendar will share events/Japanese holidays. Also, the time frame is GMT+09:00 Japan Time.
+This calendar will share events/Japanese holidays. Also, the time frame is UTC+09:00 Japan Time.
 
-<p align="center">▼アメリカ各地と日本の現在時刻▼</p>
+<p align="center">▼Time Table for Japan and US▼</p>
 
 <table style="width: 350px" summary="時差比較テーブル" align="center">
 <tr>
-<td width="25%" bgcolor="#aaaaaa">日本</td>
+<td width="25%" bgcolor="#aaaaaa">Japan</td>
 <td><object type="text/html" data="https://www.clocklink.com/html5embed.php?clock=018&timezone=JST&color=gray&size=240&Title=&Message=&Target=&From=2014,1,1,0,0,0&DateFormat=yyyy / mm / dd DDD&TimeFormat=hh:mm:ss TT&Color=gray" height="20"><p>日本の現在時刻が表示されます</p></object></td>
 </tr>
 <tr>
