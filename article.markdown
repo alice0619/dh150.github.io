@@ -25,7 +25,13 @@ permalink: /featuredarticle/
 </iframe>
       </td>
       <td style="border:none;">
-        3
+        <iframe 
+  class="hatenablogcard" 
+  style="width:100%;height:155px;max-width:680px;" 
+  title="Japan Rail Pass (JR Pass)" 
+  src="https://hatenablog-parts.com/embed?url=https://mainichi.jp/english/articles/20200803/p2a/00m/0na/009000c" 
+  width="300" height="150" frameborder="0" scrolling="no">
+</iframe>
       </td>
     </tr>
     <tr style="border:none;">
