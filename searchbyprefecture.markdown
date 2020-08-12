@@ -60,18 +60,9 @@ $(document).ready(function(){
     </li>
 </ul>
 
->At Nagoya Station you can get both transport and tourist information on the Central Walkway. There is a Tourist Information Center which is closer to the east end of the Central Walkway. Staff here speak English and have free information pamphlets and maps in English, Korean, and Chinese. They can advise you about local transport, tours, and events. This is open from 9.00 – 19.00 and closed from December 29th to January 1st.
-
 <a href="https://www.nagoyastation.com">名古屋駅</a>
 
 
-<iframe 
-  class="hatenablogcard" 
-  style="width:100%;height:155px;max-width:680px;" 
-  title="Itsukushima Jinja" 
-  src="https://hatenablog-parts.com/embed?url=https://www.nagoyastation.com" 
-  width="300" height="150" frameborder="0" scrolling="no">
-</iframe>
 
 
 
@@ -93,6 +84,10 @@ $(document).ready(function(){
 
 <a href="http://www.en.itsukushimajinja.jp">Itsukushima Jinja (Official Website)</a>
 
+
+
+
+
 <a id="okayama" href="#Okayama"></a>
 ## Okayama (岡山県)
 <a id="kurashiki" href="#Kurashiki"></a>
@@ -100,10 +95,14 @@ $(document).ready(function(){
 
 
 
+
+
 <a id="tottori" href="#Tottori"></a>
 ## Tottori (鳥取県)
 <a id="tottoriSakyu" href="#TottoriSakyu"></a>
 * Tottori Desert (鳥取砂丘)
+
+
 
 
 
@@ -127,6 +126,8 @@ $(document).ready(function(){
 
 <a id="motonosumi" href="#Motonosumi"></a>
 * Motonosumi Inari Jinja (元乃隅稲荷神社)
+
+
 
 
 
