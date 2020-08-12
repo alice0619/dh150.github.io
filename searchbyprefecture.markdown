@@ -71,8 +71,7 @@ $(document).ready(function(){
   </li>
 </ul>
 
->The centuries-old Itsukushima Shrine (厳島神社, Itsukushima Jinja) on Miyajima is the source of both the island's fame and its name. Formally named Itsukushima, the island is more popularly known as "Miyajima", literally "shrine island" in Japanese, thanks to its star attraction. The shrine is known worldwide for its iconic "floating" torii gate.
->The shrine and its torii gate are unique for being built over water, seemingly floating in the sea during high tide. The shrine complex consists of multiple buildings, including a prayer hall, a main hall and a noh theater stage, which are connected by boardwalks and supported by pillars above the sea.
+<a href="https://ja.wikipedia.org/wiki/厳島神社">厳島神社 (Wikipedia)</a>
 
 <iframe 
   class="hatenablogcard" 
@@ -110,6 +109,7 @@ $(document).ready(function(){
   </li>
 </ul>
 
+<a href="https://ja.wikipedia.org/wiki/角島大橋">角島大橋 (Wikipedia)</a>
 
 <a id="motonosumi" href="#Motonosumi"></a>
 * Motonosumi Inari Jinja (元乃隅稲荷神社)
