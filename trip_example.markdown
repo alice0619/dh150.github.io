@@ -7,7 +7,8 @@ permalink: /example/
 <table>
   <tr>
     <td> <img src="trip.png"></img> </td>
-    <td> This is one of examples of trip route. I got a JR Pass at Nagoya Station, Aichi (①), then <br>
+    <td> This is one of examples of trip route. I got a JR Pass at <br>
+    Nagoya Station, Aichi (①), then <br>
     Itsukushima Jinja, Hiroshima (②), <br>
     Shimonoseki, Yamaguchi (③), <br>
     Fukuoka Station (④), <br>
