@@ -150,6 +150,8 @@ $(document).ready(function(){
   </li>
 </ul>
 
+<a href="http://www.sand-museum.jp/en/">Tottori Sand Dunes (Official Website)</a>
+
 <a id="Yamaguchi" href="#Yamaguchi"></a>
 ## Yamaguchi (山口県)
 <a id="tsunoshima" href="#Tsunoshima"></a>
@@ -180,7 +182,9 @@ $(document).ready(function(){
   </li>
 </ul>
 
+<a href="https://ja.wikipedia.org/wiki/元乃隅神社">元乃隅稲荷神社 (Wikipedia)</a>
 
+<a href="https://www.instagram.com/explore/tags/motonosumiinari/?hl=ja">#Motonosumiinari (Instagram)</a>
 
 <a id="fukuoka" href="#Fukuoka"></a>
 ## Fukuoka (福岡県)
@@ -195,4 +199,8 @@ $(document).ready(function(){
     <img src="https://alice0619.github.io/dh150.github.io/fukuoka6.JPG" width="700" height="500" alt="Mentai Gozen" title="Mentai Gozen">
   </li>
 </ul>
+
+<a href="https://www.hakatastation.com">Hakata Station (Japan Station)</a>
+
+<a href="https://www.tripadvisor.com/Attraction_Review-g14127501-d10131836-Reviews-Hakata_Station-Hakata_Fukuoka_Fukuoka_Prefecture_Kyushu.html">Hakata Station (Trip Advisor)</a>
 
