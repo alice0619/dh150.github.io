@@ -19,6 +19,10 @@ The reason why it is quite a small rate of visitors in Western Japan is because 
 
 Though they are not popular, you can find some of them near touristic spots!
 
+### History Archives
+
+<a href="https://www.japanvisitor.com/japanese-culture/history">Japanese History (Japan Visitor)</a>
+
 ### Site Map
 - ***Home***: See what's new, blog, and use the interactive map to check out spots!
 - ***About***: Here.
