@@ -115,9 +115,20 @@ $(document).ready(function(){
 <a id="tottoriSakyu" href="#TottoriSakyu"></a>
 * Tottori Desert (鳥取砂丘)
 
+<ul class="slider">
+  <li>
+    <img src="https://alice0619.github.io/dh150.github.io/tottori3.JPG" width="700" height="500" alt="Kurashiki" title="Kurashiki">
+  </li>
+  <li>
+    <img src="https://alice0619.github.io/dh150.github.io/tottori7.JPG" width="700" height="500" alt="Kurashiki" title="Kurashiki">
+  </li>
+</ul>
 
+<a href="https://en.wikipedia.org/wiki/Tottori_Sand_Dunes">Tottori Sand Dunes (Wikipedia)</a>
 
+<a href="https://www.japan-guide.com/e/e8102.html">Tottori Sand Dunes (japan-guide.com)</a>
 
+<a href="https://www.ana-cooljapan.com/destinations/tottori/tottorisanddunes">Sand Dunes (Is Japan Cool?)</a>
 
 <a id="Yamaguchi" href="#Yamaguchi"></a>
 ## Yamaguchi (山口県)
