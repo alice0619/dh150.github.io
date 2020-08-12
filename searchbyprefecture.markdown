@@ -4,6 +4,36 @@ title: Search by Prefecture
 permalink: /searchbyprefecture/
 ---
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
+
+<style>
+.slider img
+{
+width:100%;
+display: block !important;
+margin: 0 auto !important;
+}
+.bx-wrapper img {
+    width:100%;
+}
+</style>
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+            $('.slider').bxSlider({
+                auto: true,
+                pause: 5000,
+                captions: true,
+                touchEnabled: false
+            });
+        });
+            </script>
+            
+
 ## Contents
 - [Aich](#Aichi)
 - [Hiroshima](#Hiroshima)
@@ -33,6 +63,14 @@ permalink: /searchbyprefecture/
 ## Hiroshima (広島県)
 <a id="itsukushima" href="#Itsukushima"></a>
 * <u>Itsukushima Jinja (Shrine) (厳島神社)</u>
+
+<ul class="slider">
+<li><img src="https://alice0619.github.io/dh150.github.io/itsukushima.JPG" width="700" height="500" alt="Itsukushima Jinja" title="Itsukushima Jinja"></li>
+  <li>
+    <img src="https://alice0619.github.io/dh150.github.io/94330D2F-2703-47D2-BA21-89AE2FFF84D5-min.jpeg" width="700" height="500" alt="Itsukushima Jinja" title="Itsukushima Jinja">
+  </li>
+</ul>
+
 >The centuries-old Itsukushima Shrine (厳島神社, Itsukushima Jinja) on Miyajima is the source of both the island's fame and its name. Formally named Itsukushima, the island is more popularly known as "Miyajima", literally "shrine island" in Japanese, thanks to its star attraction. The shrine is known worldwide for its iconic "floating" torii gate.
 >The shrine and its torii gate are unique for being built over water, seemingly floating in the sea during high tide. The shrine complex consists of multiple buildings, including a prayer hall, a main hall and a noh theater stage, which are connected by boardwalks and supported by pillars above the sea.
 
