@@ -93,8 +93,21 @@ $(document).ready(function(){
 <a id="kurashiki" href="#Kurashiki"></a>
 * Kurashiki Bikan District (倉敷美観地区)
 
+<ul class="slider">
+  <li>
+    <img src="https://alice0619.github.io/dh150.github.io/kurashiki2.JPG" width="700" height="500" alt="Kurashiki" title="Kurashiki">
+  </li>
+  <li>
+    <img src="https://alice0619.github.io/dh150.github.io/kurashiki5.JPG" width="700" height="500" alt="Kurashiki" title="Kurashiki">
+  </li>
+    <li>
+        <img src="https://alice0619.github.io/dh150.github.io/kurashiki6.JPG" width="700" height="500"alt="Kurashiki" title="Kurashiki">
+    </li>
+</ul>
 
+<a href="https://en.wikipedia.org/wiki/Kurashiki">Kurashiki (Wikipedia)</a>
 
+<a href="https://www.japan-guide.com/e/e5750.html">Kurashiki (japan-guide.com)</a>
 
 
 <a id="tottori" href="#Tottori"></a>
