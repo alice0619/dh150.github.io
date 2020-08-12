@@ -40,5 +40,6 @@ $(document).ready(function(){
 <li><a href="https://alice0619.github.io/dh150.github.io/searchbyprefecture/"><img src="https://alice0619.github.io/dh150.github.io/94330D2F-2703-47D2-BA21-89AE2FFF84D5-min.jpeg" width="700" height="500" alt="Itsukushima Jinja (Hiroshima)" title="Itsukushima Jinja (Hiroshima)"></a></li>
 <li><a href="https://alice0619.github.io/dh150.github.io/searchbyprefecture/"><img src="https://alice0619.github.io/dh150.github.io/A54B0539-92DD-4828-A5D3-2D3123BD897B-min.jpeg" width="700" height="500" alt="Kanmon Kaikyo (Yamaguchi/Fukuoka)" title="Kanmon Kaikyo (Yamaguchi/Fukuoka)"></a></li>
 <li><a href="https://alice0619.github.io/dh150.github.io/searchbyprefecture/"><img src="https://alice0619.github.io/dh150.github.io/CD2C95F7-AF6B-4474-9980-AAA17B422D3E-min.jpeg" width="700" height="500" alt="Motonosumi Inari Jinja (Yamaguchi)" title="Motonosumi Inari Jinja (Yamaguchi)"></a></li>
+<li><a href="https://alice0619.github.io/dh150.github.io/searchbyprefecture/#Itsukushima"><img src="https://alice0619.github.io/dh150.github.io/tottori3.JPG" width="700" height="500" alt="Tottori Dune (Tottori)" title="Tottori Dune (Tottori)"></a></li>
 </ul>
                                                                                   
