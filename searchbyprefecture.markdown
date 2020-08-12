@@ -47,7 +47,23 @@ $(document).ready(function(){
 <a id="aichi" href="#Aichi"></a>
 ## Aichi (愛知県)
 * <u>Nagoya Station (名古屋駅)</u>
+
+<ul class="slider">
+  <li>
+    <img src="https://alice0619.github.io/dh150.github.io/nagoya_station.jpeg" width="700" height="500" alt="Nagoya Station" title="Nagoya Station">
+  </li>
+  <li>
+    <img src="https://alice0619.github.io/dh150.github.io/nagoya.JPG" width="700" height="500" alt="Curry Udon (Restaurants Arcade)" title="Curry Udon (Restaurants Arcade)">
+  </li>
+    <li>
+        <img src="https://alice0619.github.io/dh150.github.io/nagoya3.JPG" alt="Kishimen with Ebi Fry (Restaurants Arcade)" title="Kishimen with Ebi Fry (Restaurants Arcade)">
+    </li>
+</ul>
+
 >At Nagoya Station you can get both transport and tourist information on the Central Walkway. There is a Tourist Information Center which is closer to the east end of the Central Walkway. Staff here speak English and have free information pamphlets and maps in English, Korean, and Chinese. They can advise you about local transport, tours, and events. This is open from 9.00 – 19.00 and closed from December 29th to January 1st.
+
+<a href="https://www.nagoyastation.com">名古屋駅</a>
+
 
 <iframe 
   class="hatenablogcard" 
