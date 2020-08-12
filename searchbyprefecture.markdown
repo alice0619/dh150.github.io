@@ -187,5 +187,12 @@ $(document).ready(function(){
 <a id="hakata" href="#Hakata"></a>
 * Hakata Station (博多駅)
 
-
+<ul class="slider">
+  <li>
+    <img src="https://alice0619.github.io/dh150.github.io/fukuoka4.JPG" width="700" height="500" alt="Ramen Ikkosha" title="Ramen Ikkosha">
+  </li>
+  <li>
+    <img src="https://alice0619.github.io/dh150.github.io/fukuoka6.JPG" width="700" height="500" alt="Mentai Gozen" title="Mentai Gozen">
+  </li>
+</ul>
 
