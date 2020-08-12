@@ -101,6 +101,14 @@ $(document).ready(function(){
 <a id="tsunoshima" href="#Tsunoshima"></a>
 * Tsunoshima Ohashi (角島大橋)
 
+<ul class="slider">
+  <li>
+    <img src="https://alice0619.github.io/dh150.github.io/8D0BE253-069E-48F3-B903-DE002E58BF93-min.jpeg" width="700" height="500" alt="Tsunoshima Ohashi" title="Tsunoshima Ohashi">
+  </li>
+  <li>
+    <img src="https://alice0619.github.io/dh150.github.io/tsunoshima5.JPG" width="700" height="500" alt="Tsunoshima Beach" title="Tsunoshima Beach">
+  </li>
+</ul>
 
 
 <a id="motonosumi" href="#Motonosumi"></a>
