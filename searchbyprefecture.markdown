@@ -171,7 +171,14 @@ $(document).ready(function(){
 <a id="motonosumi" href="#Motonosumi"></a>
 * Motonosumi Inari Jinja (元乃隅稲荷神社)
 
-
+<ul class="slider">
+  <li>
+    <img src="https://alice0619.github.io/dh150.github.io/CD2C95F7-AF6B-4474-9980-AAA17B422D3E-min.jpeg" width="700" height="500" alt="Motonosumi Inari Jinja" title="Motonosumi Inari Jinja">
+  </li>
+  <li>
+    <img src="https://alice0619.github.io/dh150.github.io/inari2.JPG" width="700" height="500" alt="Motonosumi Inari Jinja" title="Motonosumi Inari Jinja">
+  </li>
+</ul>
 
 
 
