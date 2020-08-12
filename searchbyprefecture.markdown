@@ -130,6 +130,26 @@ $(document).ready(function(){
 
 <a href="https://www.ana-cooljapan.com/destinations/tottori/tottorisanddunes">Sand Dunes (Is Japan Cool?)</a>
 
+* Tottori Sand Museum (鳥取砂の美術館)
+
+<ul class="slider">
+  <li>
+    <img src="https://alice0619.github.io/dh150.github.io/B8022211-9430-4644-B47C-A031A5D79DD0-min.jpeg" width="700" height="500" alt="Sand Museum" title="Kurashiki">
+  </li>
+  <li>
+    <img src="https://alice0619.github.io/dh150.github.io/sand_museum1.JPG" width="700" height="500" alt="Sand Museum" title="Sand Museum">
+  </li>
+    <li>
+    <img src="https://alice0619.github.io/dh150.github.io/sand.JPG" width="700" height="500" alt="Sand Museum" title="Sand Museum">
+  </li>
+    <li>
+    <img src="https://alice0619.github.io/dh150.github.io/sand2.JPG" width="700" height="500" alt="Sand Museum" title="Sand Museum">
+  </li>
+    <li>
+    <img src="https://alice0619.github.io/dh150.github.io/sand3.JPG" width="700" height="500" alt="Sand Museum" title="Sand Museum">
+  </li>
+</ul>
+
 <a id="Yamaguchi" href="#Yamaguchi"></a>
 ## Yamaguchi (山口県)
 <a id="tsunoshima" href="#Tsunoshima"></a>
