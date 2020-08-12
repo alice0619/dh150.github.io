@@ -50,7 +50,7 @@ $(document).ready(function(){
 
 <ul class="slider">
   <li>
-    <img src="https://alice0619.github.io/dh150.github.io/nagoya_station.jpeg" width="700" height="500" alt="Nagoya Station" title="Nagoya Station">
+    <img src="https://alice0619.github.io/dh150.github.io/nagoya_station.jpg" width="700" height="500" alt="Nagoya Station" title="Nagoya Station">
   </li>
   <li>
     <img src="https://alice0619.github.io/dh150.github.io/nagoya.JPG" width="700" height="500" alt="Curry Udon (Restaurants Arcade)" title="Curry Udon (Restaurants Arcade)">
