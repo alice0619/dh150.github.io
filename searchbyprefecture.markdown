@@ -89,15 +89,9 @@ $(document).ready(function(){
 
 <a href="https://ja.wikipedia.org/wiki/厳島神社">厳島神社 (Wikipedia)</a>
 
-<a href="https://www.japan-guide.com/e/e3450.html">Itsukushima Jinja</a>
+<a href="https://www.japan-guide.com/e/e3450.html">Itsukushima Shrine (japan-guide.com)</a>
 
-<iframe 
-  class="hatenablogcard" 
-  style="width:100%;height:155px;max-width:680px;" 
-  title="Itsukushima Jinja" 
-  src="https://hatenablog-parts.com/embed?url=http://www.en.itsukushimajinja.jp" 
-  width="300" height="150" frameborder="0" scrolling="no">
-</iframe>
+<a href="http://www.en.itsukushimajinja.jp">Itsukushima Jinja (Official Website)</a>
 
 <a id="okayama" href="#Okayama"></a>
 ## Okayama (岡山県)
