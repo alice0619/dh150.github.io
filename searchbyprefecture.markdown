@@ -60,7 +60,7 @@ $(document).ready(function(){
     </li>
 </ul>
 
-<a href="https://www.nagoyastation.com">名古屋駅</a>
+<a href="https://www.nagoyastation.com">Nagoya Station (Japan Station)</a>
 
 
 
