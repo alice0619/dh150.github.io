@@ -89,6 +89,8 @@ $(document).ready(function(){
 
 <a href="https://ja.wikipedia.org/wiki/厳島神社">厳島神社 (Wikipedia)</a>
 
+<a href="https://www.japan-guide.com/e/e3450.html">Itsukushima Jinja</a>
+
 <iframe 
   class="hatenablogcard" 
   style="width:100%;height:155px;max-width:680px;" 
@@ -126,6 +128,8 @@ $(document).ready(function(){
 </ul>
 
 <a href="https://ja.wikipedia.org/wiki/角島大橋">角島大橋 (Wikipedia)</a>
+
+<a href="https://www.ana-cooljapan.com/destinations/yamaguchi/tsunoshimabridge">Tsunoshima Bridge (Is Japan Cool?)</a>
 
 <a id="motonosumi" href="#Motonosumi"></a>
 * Motonosumi Inari Jinja (元乃隅稲荷神社)
