@@ -100,9 +100,9 @@ $(document).ready(function(){
   <li>
     <img src="https://alice0619.github.io/dh150.github.io/kurashiki5.JPG" width="700" height="500" alt="Kurashiki" title="Kurashiki">
   </li>
-    <li>
-        <img src="https://alice0619.github.io/dh150.github.io/kurashiki6.JPG" width="700" height="500"alt="Kurashiki" title="Kurashiki">
-    </li>
+  <li>
+    <img src="https://alice0619.github.io/dh150.github.io/kurashiki6.JPG" width="700" height="500" alt="Kurashiki" title="Kurashiki">
+  </li>
 </ul>
 
 <a href="https://en.wikipedia.org/wiki/Kurashiki">Kurashiki (Wikipedia)</a>
